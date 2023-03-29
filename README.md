@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey, I'm Alex 👋
+<br>
 
 <!--
 **benzeneboi/benzeneboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning:
--- algorithm analysis and design
--- Database system implementation
+- 🔭 I’m currently working on betting web automation.
+- 🌱 I’m currently learning algorithm analysis and design and database system implementation.

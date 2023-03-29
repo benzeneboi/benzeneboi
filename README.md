@@ -1,6 +1,6 @@
 ### Hey, I'm Alex 👋
 
-<h1>Hey, I'm Alex</h1>
+<h1 align="center">Hey, I'm Alex👋</h1>
 
 <br>
 

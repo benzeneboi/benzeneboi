@@ -1,5 +1,3 @@
-### Hey, I'm Alex 👋
-
 <h1 align="center">Hey, I'm Alex👋</h1>
 
 <br>
@@ -21,3 +19,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on betting web automation.
 - 🌱 I’m currently learning algorithm analysis and design and database system implementation.
+
+<br>
+
+<p align="center">
+ 
+- **Languages**:
+
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+</p>

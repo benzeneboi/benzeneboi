@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on betting web automation.
-- 🌱 I’m currently learning algorithm analysis and design and database system implementation.
-
 <br>
 
 <p align="center">
